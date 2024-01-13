@@ -16,7 +16,7 @@ class BlogConfiguration {
         articleRepository.save(Article(
             title = "Sally's favorite anime figures",
             headline = "It's an Otaku life!",
-            content = "check it out!",
+            content = "Slice of Life! Rom Com!",
             author = sallyLi,
         ))
         articleRepository.save(Article(
